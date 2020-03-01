@@ -1,0 +1,11 @@
+d:\code\learndb\bin\Debug\netcoreapp3.1\learndb.exe
+D:\code\learndb\bin\Debug\netcoreapp3.1\learndb.deps.json
+D:\code\learndb\bin\Debug\netcoreapp3.1\learndb.runtimeconfig.json
+D:\code\learndb\bin\Debug\netcoreapp3.1\learndb.runtimeconfig.dev.json
+d:\code\learndb\bin\Debug\netcoreapp3.1\learndb.dll
+d:\code\learndb\bin\Debug\netcoreapp3.1\learndb.pdb
+d:\code\learndb\obj\Debug\netcoreapp3.1\learndb.csprojAssemblyReference.cache
+d:\code\learndb\obj\Debug\netcoreapp3.1\learndb.AssemblyInfoInputs.cache
+d:\code\learndb\obj\Debug\netcoreapp3.1\learndb.AssemblyInfo.cs
+d:\code\learndb\obj\Debug\netcoreapp3.1\learndb.dll
+d:\code\learndb\obj\Debug\netcoreapp3.1\learndb.pdb
