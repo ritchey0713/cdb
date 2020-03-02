@@ -1,12 +1,9 @@
 ﻿using System;
 
-namespace learndb
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+namespace learndb {
+  class Program {
+  	static void Main(string[] args) {
+      Console.WriteLine("Hello World!");
     }
+  }
 }
